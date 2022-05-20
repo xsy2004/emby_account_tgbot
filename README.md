@@ -1,0 +1,2 @@
+# emby_account_tgbot
+一个给EMBY新建账号的Telegram机器人
